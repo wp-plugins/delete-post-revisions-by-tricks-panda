@@ -1,4 +1,4 @@
-=== Delete Post Revisions By Tricks Panda ===
+=== Delete Post Revisions ===
 Plugin URI: http://www.trickspanda.com
 Description: We created a tool which helps you to remove useless post revisions from your database.
 Version: 1.0

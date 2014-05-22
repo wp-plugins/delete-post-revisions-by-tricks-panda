@@ -1,5 +1,6 @@
 <?php
-/* Plugin Name: Delete Post Revision By Tricks Panda
+/*
+Plugin Name: Delete Post Revision
 Plugin URI: http://www.trickspanda.com
 Description: We created a tool which helps you to remove useless post revisions from your database.
 Version: 1.0
