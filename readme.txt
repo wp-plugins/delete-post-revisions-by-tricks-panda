@@ -3,7 +3,7 @@ Plugin URI: http://www.trickspanda.com
 Description: We created a tool which helps you to remove useless post revisions from your database.
 Version: 1.0
 Requires at least: 2.5
-Tested up to: 4.0
+Tested up to: 4.1
 Contributors: hardeepasrani
 Author URI: http://www.hardeepasrani.com
 Tags: revisions, posts, post revisions, tables, database, postmeta
